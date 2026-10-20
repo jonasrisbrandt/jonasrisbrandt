@@ -17,4 +17,4 @@ This is where I share side projects, experiments and things I build simply becau
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/jonas-risbrandt-8309263/)
-- [A WebGL shader experiment](https://jonasrisbrandt.github.io/)
+- [Personal website](https://jonasrisbrandt.github.io/)
